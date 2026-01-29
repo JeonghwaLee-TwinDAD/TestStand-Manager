@@ -3,7 +3,7 @@ MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#
 Value=<1>
 Value 0.Checksum.Target=My Computer
 Value 0.Checksum.Build Spec=CEF
-Value 0.Checksum.Checksum=23dae72d1bd3567d5e1386ee70615606
+Value 0.Checksum.Checksum=d26f8b5842f050be6a7b6d7d03566bee
 
 [592A697D-05EC-4C4F-8246-485889BD]
 MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
@@ -38,7 +38,7 @@ MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#
 Value=<1>
 Value 0.Checksum.Target=My Computer
 Value 0.Checksum.Build Spec=Interface
-Value 0.Checksum.Checksum=ea5db872f932c0c3de96cc18f794a427
+Value 0.Checksum.Checksum=89daccf110bea9ce8b4171f17e286dec
 
 [10F62F08-9056-44E8-932B-0FC59A82]
 MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
@@ -185,7 +185,7 @@ MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#
 Value=<1>
 Value 0.Checksum.Target=My Computer
 Value 0.Checksum.Build Spec=HW Engine
-Value 0.Checksum.Checksum=2ebbfec146023eb8f121930f99935de3
+Value 0.Checksum.Checksum=59c99a87b2131858e4b6c82f752aa243
 
 [FD119C62-70DA-4264-A77C-7A9833AA]
 MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
@@ -228,7 +228,7 @@ MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#
 Value=<1>
 Value 0.Checksum.Target=My Computer
 Value 0.Checksum.Build Spec=Digitizer
-Value 0.Checksum.Checksum=5d1b40900b963c5d31a8dc04a6b2592b
+Value 0.Checksum.Checksum=b33b49c93f7958f1badec221e0e7632b
 
 [6187D8FB-236D-4ADE-8C61-F623DE18]
 MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
@@ -270,7 +270,7 @@ MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#
 Value=<1>
 Value 0.Checksum.Target=My Computer
 Value 0.Checksum.Build Spec=Power Supply
-Value 0.Checksum.Checksum=4d59c53d077caa1e777c987e341f492e
+Value 0.Checksum.Checksum=05d70956a059d89f9119890699656897
 
 [BB7F434A-C17E-47F5-8991-9A7AAF34]
 MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
@@ -341,7 +341,7 @@ MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#
 Value=<1>
 Value 0.Checksum.Target=My Computer
 Value 0.Checksum.Build Spec=Abstract Engine
-Value 0.Checksum.Checksum=d397a8099d20cb351407e159dbeb36fe
+Value 0.Checksum.Checksum=9c0336a848702a2399993ddb79f78a62
 
 [24A2C67A-5A69-462D-A224-97E1E356]
 MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g

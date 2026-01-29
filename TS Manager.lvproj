@@ -1199,8 +1199,6 @@
 		</Item>
 		<Item Name="Config Tool.lvlib" Type="Library" URL="../Configuration Tools/Config Tool.lvlib"/>
 		<Item Name="Launcher.vi" Type="VI" URL="../Launcher.vi"/>
-		<Item Name="TestStandSoftware.vi" Type="VI" URL="../TestStandSoftware.vi"/>
-		<Item Name="Control Globals.vi" Type="VI" URL="../Control Globals.vi"/>
 		<Item Name="Test Config.ini" Type="Document" URL="../Test Config.ini"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
@@ -1456,11 +1454,11 @@
 				<Property Name="PKG_shortcuts[0].Path" Type="Path">TSS</Property>
 				<Property Name="PKG_shortcuts[0].Target.Child" Type="Str">{75A55914-3BAA-432A-A6AE-368A4BC2B70A}</Property>
 				<Property Name="PKG_shortcuts[0].Target.Destination" Type="Str">{EE69AC19-93F0-4544-AEA7-029815D58745}</Property>
-				<Property Name="PKG_shortcuts[0].Target.Source" Type="Ref">/My Computer/Build Specifications/TSS</Property>
+				<Property Name="PKG_shortcuts[0].Target.Source" Type="Ref">/My Computer/Build Specifications/TS Manager</Property>
 				<Property Name="PKG_shortcuts[0].Type" Type="Str">NIPKG</Property>
 				<Property Name="PKG_sources.Count" Type="Int">1</Property>
 				<Property Name="PKG_sources[0].Destination" Type="Str">{EE69AC19-93F0-4544-AEA7-029815D58745}</Property>
-				<Property Name="PKG_sources[0].ID" Type="Ref">/My Computer/Build Specifications/TSS</Property>
+				<Property Name="PKG_sources[0].ID" Type="Ref">/My Computer/Build Specifications/TS Manager</Property>
 				<Property Name="PKG_sources[0].Type" Type="Str">EXE Build</Property>
 				<Property Name="PKG_sources[1].Destination" Type="Str">{EE69AC19-93F0-4544-AEA7-029815D58745}</Property>
 				<Property Name="PKG_sources[1].ID" Type="Ref"></Property>
@@ -1469,7 +1467,7 @@
 				<Property Name="PKG_sources[10].ID" Type="Ref"></Property>
 				<Property Name="PKG_sources[10].Type" Type="Str">File</Property>
 				<Property Name="PKG_sources[2].Destination" Type="Str">{EE69AC19-93F0-4544-AEA7-029815D58745}</Property>
-				<Property Name="PKG_sources[2].ID" Type="Ref">/My Computer/Build Specifications/TSS</Property>
+				<Property Name="PKG_sources[2].ID" Type="Ref">/My Computer/Build Specifications/TS Manager</Property>
 				<Property Name="PKG_sources[2].Type" Type="Str">EXE Build</Property>
 				<Property Name="PKG_sources[3].Destination" Type="Str">{CF668F9E-C8BF-4DAA-9A03-208C61F934EE}</Property>
 				<Property Name="PKG_sources[3].ID" Type="Ref"></Property>
@@ -1495,14 +1493,14 @@
 				<Property Name="PKG_synopsis" Type="Str">TSS</Property>
 				<Property Name="PKG_version" Type="Str">0.1.0</Property>
 			</Item>
-			<Item Name="TSS" Type="EXE">
+			<Item Name="TS Manager" Type="EXE">
 				<Property Name="App_INI_aliasGUID" Type="Str">{26EE7A04-2FB5-4A63-A559-52824085C948}</Property>
 				<Property Name="App_INI_GUID" Type="Str">{A415D7BC-5770-4A80-818D-B1C32368722A}</Property>
 				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
 				<Property Name="App_serverType" Type="Int">0</Property>
 				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{F8AE7BD7-F765-4266-9916-110F479E5D06}</Property>
-				<Property Name="Bld_buildSpecName" Type="Str">TSS</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">TS Manager</Property>
 				<Property Name="Bld_excludeDependentDLLs" Type="Bool">true</Property>
 				<Property Name="Bld_excludeDependentPPLs" Type="Bool">true</Property>
 				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
@@ -1512,10 +1510,10 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/Users/Public/Documents/Sandia National Labs</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{D3559BD5-4464-4DAD-8922-4367D0A15E56}</Property>
-				<Property Name="Bld_version.build" Type="Int">34</Property>
+				<Property Name="Bld_version.build" Type="Int">36</Property>
 				<Property Name="Bld_version.minor" Type="Int">1</Property>
-				<Property Name="Destination[0].destName" Type="Str">TSS.exe</Property>
-				<Property Name="Destination[0].path" Type="Path">/C/Users/Public/Documents/Sandia National Labs/TSS.exe</Property>
+				<Property Name="Destination[0].destName" Type="Str">TS Manager.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">/C/Users/Public/Documents/Sandia National Labs/NI_AB_PROJECTNAME.exe</Property>
 				<Property Name="Destination[0].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
@@ -1527,7 +1525,7 @@
 				<Property Name="Destination[2].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">3</Property>
 				<Property Name="Source[0].Container.applyDestination" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{D2B25EF6-0793-4C7A-90E9-B7F553FC92FF}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{401D7F30-17CD-4CE0-8DB4-9D11CC1B5BAF}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].Container.applyDestination" Type="Bool">true</Property>
 				<Property Name="Source[1].Container.applyInclusion" Type="Bool">true</Property>
@@ -1546,11 +1544,11 @@
 				<Property Name="SourceCount" Type="Int">4</Property>
 				<Property Name="TgtF_companyName" Type="Str">Sandia National Laboratories</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">Test Stand Software</Property>
-				<Property Name="TgtF_internalName" Type="Str">TSS</Property>
+				<Property Name="TgtF_internalName" Type="Str">TS Manager</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2024 Sandia National Laboratories</Property>
-				<Property Name="TgtF_productName" Type="Str">TSS</Property>
+				<Property Name="TgtF_productName" Type="Str">TS Manager</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{75A55914-3BAA-432A-A6AE-368A4BC2B70A}</Property>
-				<Property Name="TgtF_targetfileName" Type="Str">TSS.exe</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">TS Manager.exe</Property>
 				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
 			</Item>
 		</Item>
