@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # HW Config UI
 Since the future of CORE moves to use JSON format for HW configuration, this user interface shall be developed that an operator is comfortable with.
 ## Installation
