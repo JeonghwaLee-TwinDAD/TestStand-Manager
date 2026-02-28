@@ -44,4 +44,5 @@
 		<Item Name="ReportError Event Callback.vi" Type="VI" URL="../TestStandUI/ReportError Event Callback.vi"/>
 	</Item>
 	<Item Name="TS Manager.vi" Type="VI" URL="../TS Manager.vi"/>
+	<Item Name="TS Manager_wo TS.vi" Type="VI" URL="../TS Manager_wo TS.vi"/>
 </Library>
