@@ -11,6 +11,6 @@
 	</Item>
 	<Item Name="ACIR Engine.lvclass" Type="LVClass" URL="../ACIR Engine/ACIR Engine.lvclass"/>
 	<Item Name="ACIR Instrument.lvclass" Type="LVClass" URL="../ACIR Instrument/ACIR Instrument.lvclass"/>
-	<Item Name="ACIR configuration.lvclass" Type="LVClass" URL="../ACIR configuration/ACIR configuration.lvclass"/>
 	<Item Name="ACIR Channel.lvclass" Type="LVClass" URL="../ACIR Channel/ACIR Channel.lvclass"/>
+	<Item Name="ACIR configuration.lvclass" Type="LVClass" URL="../ACIR configuration/ACIR configuration.lvclass"/>
 </Library>

@@ -11,7 +11,7 @@
 	</Item>
 	<Item Name="Fgen Engine.lvclass" Type="LVClass" URL="../Fgen Engine/Fgen Engine.lvclass"/>
 	<Item Name="Fgen Instrument.lvclass" Type="LVClass" URL="../Fgen Instrument/Fgen Instrument.lvclass"/>
-	<Item Name="Fgen configuration.lvclass" Type="LVClass" URL="../Fgen configuration/Fgen configuration.lvclass"/>
 	<Item Name="Fgen Channel.lvclass" Type="LVClass" URL="../Fgen Channel/Fgen Channel.lvclass"/>
+	<Item Name="Fgen configuration.lvclass" Type="LVClass" URL="../Fgen configuration/Fgen configuration.lvclass"/>
 	<Item Name="Fgen Channel configuration.lvclass" Type="LVClass" URL="../Fgen Channel configuration/Fgen Channel configuration.lvclass"/>
 </Library>

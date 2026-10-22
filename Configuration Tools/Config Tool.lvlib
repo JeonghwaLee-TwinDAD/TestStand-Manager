@@ -23,7 +23,7 @@
 		<Item Name="Log Error.vi" Type="VI" URL="../SubVI/Log Error.vi"/>
 		<Item Name="Read INI File.vi" Type="VI" URL="../SubVI/Read INI File.vi"/>
 		<Item Name="Write INI File.vi" Type="VI" URL="../SubVI/Write INI File.vi"/>
-		<Item Name="MCListbox Controls.vi" Type="VI" URL="../../Plugin/HW Engine/HW Engine/MCListbox Controls.vi"/>
+		<Item Name="MCListbox Controls.vi" Type="VI" URL="../SubVI/MCListbox Controls.vi"/>
 		<Item Name="Load App.vi" Type="VI" URL="../SubVI/Load App.vi"/>
 		<Item Name="Localization.vi" Type="VI" URL="../SubVI/Localization.vi"/>
 		<Item Name="Find Engine from Child.vi" Type="VI" URL="../SubVI/Find Engine from Child.vi"/>

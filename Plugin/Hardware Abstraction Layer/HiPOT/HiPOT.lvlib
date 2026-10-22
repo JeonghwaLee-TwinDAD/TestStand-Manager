@@ -11,7 +11,7 @@
 	</Item>
 	<Item Name="HiPOT Engine.lvclass" Type="LVClass" URL="../HiPOT Engine/HiPOT Engine.lvclass"/>
 	<Item Name="HiPOT Instrument.lvclass" Type="LVClass" URL="../HiPOT Instrument/HiPOT Instrument.lvclass"/>
-	<Item Name="HiPOT configuration.lvclass" Type="LVClass" URL="../HiPOT configuration/HiPOT configuration.lvclass"/>
 	<Item Name="HiPOT Channel.lvclass" Type="LVClass" URL="../HiPOT Channel/HiPOT Channel.lvclass"/>
+	<Item Name="HiPOT configuration.lvclass" Type="LVClass" URL="../HiPOT configuration/HiPOT configuration.lvclass"/>
 	<Item Name="HiPOT Channel configuration.lvclass" Type="LVClass" URL="../HiPOT Channel configuration/HiPOT Channel configuration.lvclass"/>
 </Library>

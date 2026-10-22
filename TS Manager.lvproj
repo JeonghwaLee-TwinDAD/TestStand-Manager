@@ -246,73 +246,6 @@
 		<Item Name="Config Tool.lvlib" Type="Library" URL="../Configuration Tools/Config Tool.lvlib"/>
 		<Item Name="Launcher.vi" Type="VI" URL="../Launcher.vi"/>
 		<Item Name="Test Config.ini" Type="Document" URL="../Test Config.ini"/>
-		<Item Name="DMM.lvlibp" Type="LVLibp" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp">
-			<Item Name="Device" Type="Folder">
-				<Item Name="NI DMM.lvclass" Type="LVClass" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/NI DMM/NI DMM.lvclass"/>
-				<Item Name="Sim DMM.lvclass" Type="LVClass" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/Sim DMM/Sim DMM.lvclass"/>
-				<Item Name="Keithley 27XX DMM.lvclass" Type="LVClass" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/Keithley 27XX DMM/Keithley 27XX DMM.lvclass"/>
-				<Item Name="Keithley 65XX DMM.lvclass" Type="LVClass" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/Keithley 65XX DMM/Keithley 65XX DMM.lvclass"/>
-			</Item>
-			<Item Name="DMM Engine.lvclass" Type="LVClass" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/DMM Engine/DMM Engine.lvclass"/>
-			<Item Name="DMM Instrument.lvclass" Type="LVClass" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/DMM Instrument/DMM Instrument.lvclass"/>
-			<Item Name="DMM Channel.lvclass" Type="LVClass" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/DMM Channel/DMM Channel.lvclass"/>
-			<Item Name="DMM configuration.lvclass" Type="LVClass" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/DMM configuration/DMM configuration.lvclass"/>
-			<Item Name="Application Directory.vi" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/vi.lib/Utility/file.llb/Application Directory.vi"/>
-			<Item Name="BuildHelpPath.vi" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/vi.lib/Utility/error.llb/BuildHelpPath.vi"/>
-			<Item Name="Check Special Tags.vi" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Check Special Tags.vi"/>
-			<Item Name="Clear Errors.vi" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Clear Errors.vi"/>
-			<Item Name="Convert property node font to graphics font.vi" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Convert property node font to graphics font.vi"/>
-			<Item Name="Details Display Dialog.vi" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Details Display Dialog.vi"/>
-			<Item Name="DialogType.ctl" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/vi.lib/Utility/error.llb/DialogType.ctl"/>
-			<Item Name="DialogTypeEnum.ctl" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/vi.lib/Utility/error.llb/DialogTypeEnum.ctl"/>
-			<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Error Cluster From Error Code.vi"/>
-			<Item Name="Error Code Database.vi" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Error Code Database.vi"/>
-			<Item Name="ErrWarn.ctl" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/vi.lib/Utility/error.llb/ErrWarn.ctl"/>
-			<Item Name="eventvkey.ctl" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/vi.lib/event_ctls.llb/eventvkey.ctl"/>
-			<Item Name="ex_CorrectErrorChain.vi" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/vi.lib/express/express shared/ex_CorrectErrorChain.vi"/>
-			<Item Name="Find Tag.vi" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Find Tag.vi"/>
-			<Item Name="Format Message String.vi" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Format Message String.vi"/>
-			<Item Name="General Error Handler Core CORE.vi" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/vi.lib/Utility/error.llb/General Error Handler Core CORE.vi"/>
-			<Item Name="General Error Handler.vi" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/vi.lib/Utility/error.llb/General Error Handler.vi"/>
-			<Item Name="Get String Text Bounds.vi" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Get String Text Bounds.vi"/>
-			<Item Name="Get Text Rect.vi" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/vi.lib/picture/picture.llb/Get Text Rect.vi"/>
-			<Item Name="GetHelpDir.vi" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/vi.lib/Utility/error.llb/GetHelpDir.vi"/>
-			<Item Name="GetRTHostConnectedProp.vi" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/vi.lib/Utility/error.llb/GetRTHostConnectedProp.vi"/>
-			<Item Name="High Resolution Relative Seconds.vi" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/vi.lib/Utility/High Resolution Relative Seconds.vi"/>
-			<Item Name="Is Path and Not Empty.vi" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/vi.lib/Utility/file.llb/Is Path and Not Empty.vi"/>
-			<Item Name="Keithley 27XX.lvlib" Type="Library" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/instr.lib/Keithley 27XX/Keithley 27XX.lvlib"/>
-			<Item Name="Keithley DMM6500 DAQ6500 Series.lvlib" Type="Library" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/instr.lib/Keithley DMM6500 DAQ6500 Series/Keithley DMM6500 DAQ6500 Series.lvlib"/>
-			<Item Name="Longest Line Length in Pixels.vi" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Longest Line Length in Pixels.vi"/>
-			<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/vi.lib/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
-			<Item Name="LVRectTypeDef.ctl" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/vi.lib/Utility/miscctls.llb/LVRectTypeDef.ctl"/>
-			<Item Name="NI_AALBase.lvlib" Type="Library" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/vi.lib/Analysis/NI_AALBase.lvlib"/>
-			<Item Name="NI_FileType.lvlib" Type="Library" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/vi.lib/Utility/lvfile.llb/NI_FileType.lvlib"/>
-			<Item Name="NI_PtbyPt.lvlib" Type="Library" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/vi.lib/ptbypt/NI_PtbyPt.lvlib"/>
-			<Item Name="niDMM Close.vi" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/instr.lib/niDMM/nidmm.llb/niDMM Close.vi"/>
-			<Item Name="niDMM Configure Current Source.vi" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/instr.lib/niDMM/nidmm.llb/niDMM Configure Current Source.vi"/>
-			<Item Name="niDMM Configure Measurement Digits.vi" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/instr.lib/niDMM/nidmm.llb/niDMM Configure Measurement Digits.vi"/>
-			<Item Name="niDMM Current Source.ctl" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/instr.lib/niDMM/nidmm.llb/niDMM Current Source.ctl"/>
-			<Item Name="niDMM Function To IVI Constant.vi" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/instr.lib/niDMM/nidmm.llb/niDMM Function To IVI Constant.vi"/>
-			<Item Name="niDMM Function.ctl" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/instr.lib/niDMM/nidmm.llb/niDMM Function.ctl"/>
-			<Item Name="niDMM Initialize.vi" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/instr.lib/niDMM/nidmm.llb/niDMM Initialize.vi"/>
-			<Item Name="niDMM IVI Error Converter.vi" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/instr.lib/niDMM/nidmm.llb/niDMM IVI Error Converter.vi"/>
-			<Item Name="niDMM Read.vi" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/instr.lib/niDMM/nidmm.llb/niDMM Read.vi"/>
-			<Item Name="niDMM Resolution in Digits.ctl" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/instr.lib/niDMM/nidmm.llb/niDMM Resolution in Digits.ctl"/>
-			<Item Name="Not Found Dialog.vi" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Not Found Dialog.vi"/>
-			<Item Name="Search and Replace Pattern.vi" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Search and Replace Pattern.vi"/>
-			<Item Name="Set Bold Text.vi" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Set Bold Text.vi"/>
-			<Item Name="Set String Value.vi" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Set String Value.vi"/>
-			<Item Name="Simple Error Handler.vi" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Simple Error Handler.vi"/>
-			<Item Name="Space Constant.vi" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/vi.lib/dlg_ctls.llb/Space Constant.vi"/>
-			<Item Name="subFile Dialog.vi" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/vi.lib/express/express input/FileDialogBlock.llb/subFile Dialog.vi"/>
-			<Item Name="TagReturnType.ctl" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/vi.lib/Utility/error.llb/TagReturnType.ctl"/>
-			<Item Name="TDMS Logger.lvlib" Type="Library" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/vi.lib/National Instruments/Asynchronous TDMS Logger/TDMS Logger.lvlib"/>
-			<Item Name="Three Button Dialog CORE.vi" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Three Button Dialog CORE.vi"/>
-			<Item Name="Three Button Dialog.vi" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Three Button Dialog.vi"/>
-			<Item Name="Trim Whitespace One-Sided.vi" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Trim Whitespace One-Sided.vi"/>
-			<Item Name="Trim Whitespace.vi" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Trim Whitespace.vi"/>
-			<Item Name="whitespace.ctl" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines/DMM.lvlibp/1abvi3w/vi.lib/Utility/error.llb/whitespace.ctl"/>
-		</Item>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="TSS package" Type="{E661DAE2-7517-431F-AC41-30807A3BDA38}">
@@ -623,7 +556,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/Users/Public/Documents/Sandia National Labs</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{D3559BD5-4464-4DAD-8922-4367D0A15E56}</Property>
-				<Property Name="Bld_version.build" Type="Int">40</Property>
+				<Property Name="Bld_version.build" Type="Int">44</Property>
 				<Property Name="Bld_version.minor" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">TS Manager.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/Users/Public/Documents/Sandia National Labs/NI_AB_PROJECTNAME.exe</Property>
@@ -638,7 +571,7 @@
 				<Property Name="Destination[2].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">3</Property>
 				<Property Name="Source[0].Container.applyDestination" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{A1A85484-8786-4E90-8A54-C112601B3771}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{548DFB87-27A4-41B2-AB0E-68F3D8E8C50B}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].Container.applyDestination" Type="Bool">true</Property>
 				<Property Name="Source[1].Container.applyInclusion" Type="Bool">true</Property>
@@ -655,7 +588,7 @@
 				<Property Name="Source[3].itemID" Type="Ref">/My Computer/Test Config.ini</Property>
 				<Property Name="Source[3].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="SourceCount" Type="Int">4</Property>
-				<Property Name="TgtF_companyName" Type="Str">Sandia National Laboratories</Property>
+				<Property Name="TgtF_companyName" Type="Str">Dodorim</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">Test Stand Software</Property>
 				<Property Name="TgtF_internalName" Type="Str">TS Manager</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2024 Sandia National Laboratories</Property>
