@@ -38,7 +38,7 @@
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
 				<Property Name="Bld_localDestDir" Type="Path">/C/Users/Public/Documents/Sandia National Labs/TSS Plugin/Tests</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{C6D4B4AA-EF1B-48AC-9FB8-0CF0064D7DB3}</Property>
-				<Property Name="Bld_version.build" Type="Int">988</Property>
+				<Property Name="Bld_version.build" Type="Int">1068</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">XY Plotter.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/Users/Public/Documents/Sandia National Labs/TSS Plugin/Tests/NI_AB_PROJECTNAME.lvlibp</Property>
@@ -50,7 +50,7 @@
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{0BC96AD6-E13E-4A3E-A573-4F31B6C3825E}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{203634CE-435A-4303-B3FB-BB9D71A2ECB9}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/XY Plotter.lvlib</Property>
@@ -62,6 +62,7 @@
 				<Property Name="Source[1].type" Type="Str">Library</Property>
 				<Property Name="SourceCount" Type="Int">2</Property>
 				<Property Name="TgtF_companyName" Type="Str">Woodward</Property>
+				<Property Name="TgtF_enableDebugging" Type="Bool">true</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">Upgrade XY Plotter</Property>
 				<Property Name="TgtF_internalName" Type="Str">XY Plotter</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2024 Woodward</Property>

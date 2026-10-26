@@ -29,20 +29,5 @@
 		<Item Name="Find Engine from Child.vi" Type="VI" URL="../SubVI/Find Engine from Child.vi"/>
 		<Item Name="Timing FGV.vi" Type="VI" URL="../SubVI/Timing FGV.vi"/>
 	</Item>
-	<Item Name="TestStand UI" Type="Folder">
-		<Item Name="Wait Event Callback.vi" Type="VI" URL="../TestStandUI/Wait Event Callback.vi"/>
-		<Item Name="Configure Application Manager.vi" Type="VI" URL="../TestStandUI/Configure Application Manager.vi"/>
-		<Item Name="Configure Event Callback.vi" Type="VI" URL="../TestStandUI/Configure Event Callback.vi"/>
-		<Item Name="Control Globals.vi" Type="VI" URL="../TestStandUI/Control Globals.vi"/>
-		<Item Name="Configure ExecutionView Manager.vi" Type="VI" URL="../TestStandUI/Configure ExecutionView Manager.vi"/>
-		<Item Name="Configure SequenceFileView Manager.vi" Type="VI" URL="../TestStandUI/Configure SequenceFileView Manager.vi"/>
-		<Item Name="DisplayErrorInEngineDialog .vi" Type="VI" URL="../TestStandUI/DisplayErrorInEngineDialog .vi"/>
-		<Item Name="DisplayExecution Event Callback.vi" Type="VI" URL="../TestStandUI/DisplayExecution Event Callback.vi"/>
-		<Item Name="DisplaySequenceFile Event Callback.vi" Type="VI" URL="../TestStandUI/DisplaySequenceFile Event Callback.vi"/>
-		<Item Name="ExitApplication Event Callback.vi" Type="VI" URL="../TestStandUI/ExitApplication Event Callback.vi"/>
-		<Item Name="Get Engine Reference.vi" Type="VI" URL="../TestStandUI/Get Engine Reference.vi"/>
-		<Item Name="ReportError Event Callback.vi" Type="VI" URL="../TestStandUI/ReportError Event Callback.vi"/>
-	</Item>
-	<Item Name="TS Manager.vi" Type="VI" URL="../TS Manager.vi"/>
 	<Item Name="TS Manager_wo TS.vi" Type="VI" URL="../TS Manager_wo TS.vi"/>
 </Library>
