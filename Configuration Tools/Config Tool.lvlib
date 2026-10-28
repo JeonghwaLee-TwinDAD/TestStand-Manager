@@ -27,7 +27,6 @@
 		<Item Name="Load App.vi" Type="VI" URL="../SubVI/Load App.vi"/>
 		<Item Name="Localization.vi" Type="VI" URL="../SubVI/Localization.vi"/>
 		<Item Name="Find Engine from Child.vi" Type="VI" URL="../SubVI/Find Engine from Child.vi"/>
-		<Item Name="Timing FGV.vi" Type="VI" URL="../SubVI/Timing FGV.vi"/>
 	</Item>
 	<Item Name="TS Manager_wo TS.vi" Type="VI" URL="../TS Manager_wo TS.vi"/>
 </Library>

@@ -38,7 +38,7 @@
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
 				<Property Name="Bld_localDestDir" Type="Path">/C/Users/Public/Documents/Sandia National Labs/TSS Plugin/Tests</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{C6D4B4AA-EF1B-48AC-9FB8-0CF0064D7DB3}</Property>
-				<Property Name="Bld_version.build" Type="Int">1068</Property>
+				<Property Name="Bld_version.build" Type="Int">1091</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">XY Plotter.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/Users/Public/Documents/Sandia National Labs/TSS Plugin/Tests/NI_AB_PROJECTNAME.lvlibp</Property>

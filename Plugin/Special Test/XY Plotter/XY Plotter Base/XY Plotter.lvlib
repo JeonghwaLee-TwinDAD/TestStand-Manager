@@ -5,6 +5,7 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Test" Type="Folder">
+		<Item Name="F18 Blowdown.lvclass" Type="LVClass" URL="../../F18 Blowdown/F18 Blowdown.lvclass"/>
 		<Item Name="H1 Frequency Response.lvclass" Type="LVClass" URL="../../Frequency Response/H1 Frequency Response.lvclass"/>
 		<Item Name="H1 Hydraulic.lvclass" Type="LVClass" URL="../../Hydraulic Test/H1 Hydraulic.lvclass"/>
 		<Item Name="H1 Velocity.lvclass" Type="LVClass" URL="../../Velocity Test/H1 Velocity.lvclass"/>
