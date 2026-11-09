@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Solution Version="1.2">
+
+  <Version Build="0" Major="0" Minor="1" Patch="0"/>
+
+  <CachePath Folder=""/>
+
+  <Config Name="Debug"/>
+
+  <Config Name="Release"/>
+
+  <Item ID="70ED8658-7F21-40B7-B24E-31151398" Type="Project" Version="1.2">
+    <Info Path="..\Special Tests\3way Lap Test\3way Lap Test.lvproj" x64="FALSE">
+      <Config ConDisSymbs="" Name="Debug">
+        <Debug Spec="3way Lap" Target="My Computer"/>
+      </Config>
+      <Config ConDisSymbs="" Name="Release"/>
+    </Info>
+  </Item>
+
+  <Item ID="0EB5A518-5B17-48F4-B307-0A1EC503" Type="Project" Version="1.2">
+    <Info Path="..\Special Tests\4way Lap Test\4way Lap Test.lvproj" x64="FALSE">
+      <Config ConDisSymbs="" Name="Debug">
+        <Debug Spec="4way Lap" Target="My Computer"/>
+      </Config>
+      <Config ConDisSymbs="" Name="Release"/>
+    </Info>
+  </Item>
+
+  <Item ID="76FEB4B9-51C1-4C12-9DBF-38264B53" Type="Project" Version="1.2">
+    <Info Path="..\Special Tests\4way No load drift\No Load.lvproj" x64="FALSE">
+      <Config ConDisSymbs="" Name="Debug">
+        <Debug Spec="No Load" Target="My Computer"/>
+      </Config>
+      <Config ConDisSymbs="" Name="Release"/>
+    </Info>
+  </Item>
+
+  <Item ID="5E5993EA-FA29-4E62-B216-9FB88673" Type="Project" Version="1.2">
+    <Info Path="..\Special Tests\4way Pressure Gain\Pressure Gain.lvproj" x64="FALSE">
+      <Config ConDisSymbs="" Name="Debug">
+        <Debug Spec="Pressure Gain" Target="My Computer"/>
+      </Config>
+      <Config ConDisSymbs="" Name="Release"/>
+    </Info>
+  </Item>
+
+  <Item ID="FB415CC9-DC71-45A7-9C8E-3BB09A0B" Type="Project" Version="1.2">
+    <Info Path="..\Special Tests\4way Leakage\Leakage.lvproj" x64="FALSE">
+      <Config ConDisSymbs="" Name="Debug">
+        <Debug Spec="Leakage" Target="My Computer"/>
+      </Config>
+      <Config ConDisSymbs="" Name="Release"/>
+    </Info>
+  </Item>
+
+</Solution>

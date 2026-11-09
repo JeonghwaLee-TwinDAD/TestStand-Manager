@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Solution Version="1.1">
+
+  <Version Build="0" Major="0" Minor="1" Patch="0"/>
+
+  <Config Name="Debug"/>
+
+  <Config Name="Release"/>
+
+  <Item ID="6129C106-0A47-40A0-82BD-35BEECE8" Type="Project" Version="1.1">
+    <Info Path="..\XY Potter-SC\XY Plotter-SC.lvproj" x64="FALSE">
+      <Config Name="Debug">
+        <Debug Spec="XY Plotter" Target="My Computer"/>
+      </Config>
+      <Config Name="Release"/>
+    </Info>
+  </Item>
+
+  <Item ID="FE1D504A-587B-4E04-BE37-38137AA1" Type="Project" Version="1.1">
+    <Info Path="..\3way Lap Test\3way Lap Test.lvproj" x64="FALSE">
+      <Config Name="Debug">
+        <Debug Spec="XY Plot" Target="My Computer"/>
+      </Config>
+      <Config Name="Release"/>
+    </Info>
+  </Item>
+
+  <Item ID="B025A1B3-6F73-4949-8FFC-943285AB" Type="Project" Version="1.1">
+    <Info Path="..\4way Lap Test\4way Lap Test.lvproj" x64="FALSE">
+      <Config Name="Debug">
+        <Debug Spec="Flow Grind" Target="My Computer"/>
+      </Config>
+      <Config Name="Release"/>
+    </Info>
+  </Item>
+
+  <Item ID="CDD79FD4-33B9-4338-BA62-D6FF9737" Type="Project" Version="1.1">
+    <Info Path="..\4way No load drift\No Load.lvproj" x64="FALSE">
+      <Config Name="Debug">
+        <Debug Spec="No Load" Target="My Computer"/>
+      </Config>
+      <Config Name="Release"/>
+    </Info>
+  </Item>
+
+  <Item ID="987E29B5-EE25-4681-9559-BD301084" Type="Project" Version="1.1">
+    <Info Path="..\4way Pressure Gain\Pressure Gain.lvproj" x64="FALSE">
+      <Config Name="Debug">
+        <Debug Spec="Flow Grind" Target="My Computer"/>
+      </Config>
+      <Config Name="Release"/>
+    </Info>
+  </Item>
+
+  <Item ID="A4380A1B-078E-4F6E-9D30-82ADE854" Type="Project" Version="1.1">
+    <Info Path="..\4way Leakage\Leakage.lvproj" x64="FALSE">
+      <Config Name="Debug">
+        <Debug Spec="Flow Grind" Target="My Computer"/>
+      </Config>
+      <Config Name="Release"/>
+    </Info>
+  </Item>
+
+</Solution>

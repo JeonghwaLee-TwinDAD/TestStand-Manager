@@ -1,0 +1,41 @@
+[70ED8658-7F21-40B7-B24E-31151398]
+MGI RWA Section Options = 2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value = <1>
+Value 0.Checksum.Target = My Computer
+Value 0.Checksum.Build Spec = 3way Lap
+Value 0.Checksum.Checksum = 9218986698af48615ad1f26473a963b4
+
+[0EB5A518-5B17-48F4-B307-0A1EC503]
+MGI RWA Section Options = 2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value = <1>
+Value 0.Checksum.Target = My Computer
+Value 0.Checksum.Build Spec = 4way Lap
+Value 0.Checksum.Checksum = 47eb79c6e87237c98d5d1993ca30ce1e
+
+[76FEB4B9-51C1-4C12-9DBF-38264B53]
+MGI RWA Section Options = 2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value = <1>
+Value 0.Checksum.Target = My Computer
+Value 0.Checksum.Build Spec = No Load
+Value 0.Checksum.Checksum = be521cc59a921ab9102d4013213b6eb2
+
+[5E5993EA-FA29-4E62-B216-9FB88673]
+MGI RWA Section Options = 2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value = <1>
+Value 0.Checksum.Target = My Computer
+Value 0.Checksum.Build Spec = Pressure Gain
+Value 0.Checksum.Checksum = 81f05c88bbda3db090b736ce56b93e17
+
+[FB415CC9-DC71-45A7-9C8E-3BB09A0B]
+MGI RWA Section Options = 2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value = <1>
+Value 0.Checksum.Target = My Computer
+Value 0.Checksum.Build Spec = Leakage
+Value 0.Checksum.Checksum = 33bf8cf7d78f5a1aea3b9efc6b43d05a
+
+[Solution Explorer]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Build Configuration=Debug
+
+[Window Positions]
+Solution Explorer = "122,33,503,807"

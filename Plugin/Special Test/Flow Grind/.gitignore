@@ -1,0 +1,8 @@
+# Metadata
+*.aliases
+*.lvlps
+Builds/
+__pycache__
+/Source Code
+.vs
+/Builds

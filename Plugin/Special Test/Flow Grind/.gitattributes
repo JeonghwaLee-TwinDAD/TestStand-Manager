@@ -1,0 +1,12 @@
+*.exe filter=lfs diff=lfs merge=lfs binary
+*.llb filter=lfs diff=lfs merge=lfs binary
+*.lvlibp filter=lfs diff=lfs merge=lfs binary
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.vipc filter=lfs diff=lfs merge=lfs -text
+*.vip filter=lfs diff=lfs merge=lfs -text
+*.nipkg filter=lfs diff=lfs merge=lfs binary
+*.zip filter=lfs diff=lfs merge=lfs -binary
+*.lvbitx filter=lfs diff=lfs merge=lfs binary
+*.lvclass binary
+large_file_needed filter=lfs diff=lfs merge=lfs -text
