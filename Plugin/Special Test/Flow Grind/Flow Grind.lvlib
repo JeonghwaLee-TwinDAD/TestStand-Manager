@@ -8,5 +8,7 @@
 	<Item Name="3way Lap.lvclass" Type="LVClass" URL="../3way Lap Test/3way Lap.lvclass"/>
 	<Item Name="4way Lap.lvclass" Type="LVClass" URL="../4way Lap/4way Lap.lvclass"/>
 	<Item Name="No Load Drift.lvclass" Type="LVClass" URL="../4way No Load/No Load Drift.lvclass"/>
+	<Item Name="Leakage.lvclass" Type="LVClass" URL="../4way Leakage/Leakage.lvclass"/>
+	<Item Name="Pressure Gain.lvclass" Type="LVClass" URL="../4way PG/Pressure Gain.lvclass"/>
 	<Item Name="FlowGrind configuration.lvclass" Type="LVClass" URL="../FG configuration/FlowGrind configuration.lvclass"/>
 </Library>
